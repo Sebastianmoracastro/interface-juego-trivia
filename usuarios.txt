@@ -1,0 +1,9 @@
+ever,1245,2,desconetado
+
+cristian,4567,0,desconetado
+
+kevin,pass,1000,desconetado
+
+mariana,6784,5,desconetado
+
+3,3,0,conectado
